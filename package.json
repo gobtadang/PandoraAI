@@ -9,9 +9,7 @@
     "postinstall": "nuxt prepare",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
-  "overrides": {
-    "vue": "latest"
-  },
+
   "devDependencies": {
     "@kevinmarrec/nuxt-pwa": "^0.17.0",
     "@nuxtjs/tailwindcss": "^6.6.4",
